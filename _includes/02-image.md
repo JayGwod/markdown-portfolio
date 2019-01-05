@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This  is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
